@@ -22,12 +22,12 @@ What time of the day experience the highest accidents occurrence.
 <h3>File Descriptions</h3>
 <a id='#File Descriptions'></a>
 There is a .ipynb file that contain all the analysis performed on the data using the CRISP-DM approach of; 
-+ Business Understanding 
-<br>+ Data Understanding</br>
-<br>+ Data Preparation</br>
-<br>+ Data Modelling</br>
-<br>+ Results</br>
-<br>+ Deployment - Storytelling</br>
+<br>1. Business Understanding </br>
+<br>2. Data Understanding</br>
+<br>3. Data Preparation</br>
+<br>4. Data Modelling</br>
+<br>5. Results</br>
+<br>6. Deployment - Storytelling</br>
 
 <h3>Results</h3>
 <a id='#Results'></a>
