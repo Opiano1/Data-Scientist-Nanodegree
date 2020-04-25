@@ -31,7 +31,7 @@ There is a .ipynb file that contain all the analysis performed on the data using
 
 <h3>Results</h3>
 <a id='#Results'></a>
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available <a href=https://medium.com/@fabiyiopeyemi94/how-severe-are-car-accidents-in-the-us-c86af93ad050?sk=e691a3acf78b68811b05555242ec041e>here</a>.
 
 <h3>Licensing, Authors, Acknowledgements</h3>
 <a id='#Licensing, Authors, Acknowledgements'</a>
